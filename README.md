@@ -1,4 +1,3 @@
-
 <p align="left"> 
   <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="Zapier" height="50"/> 
   <img src="https://cdn.simpleicons.org/make/5F5FFF" alt="Make" height="50"/> 
